@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" binary="false" defaultLng="ja_JP" dummy="false" expireDate="0" length="0" type="FexFile">
+    <properties size="6">
+        <entry key="InsightDesigner" value="true"/>
+        <entry key="LastDescribed" value="1621489566348"/>
+        <entry key="OutputFormat" value="PDF"/>
+        <entry key="masters" value="&quot;kokyaku"/>
+        <entry key="skipamper" value="on"/>
+        <entry key="tool" value="infoAssist,report,IAFull"/>
+    </properties>
+    <nlsValues _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="ja_JP"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="ビア"/>
+                <item _jt="string" index="1" value=""/>
+            </value>
+        </entry>
+    </nlsValues>
+    <fexParameters _jt="ArrayList" size="0"/>
+</rootObject>
