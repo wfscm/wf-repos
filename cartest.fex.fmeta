@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" binary="false" defaultLng="ja_JP" dummy="false" expireDate="0" length="0" type="FexFile">
+    <properties size="9">
+        <entry key="ChartType" value="Bar_Stacked"/>
+        <entry key="InsightDesigner" value="true"/>
+        <entry key="LastDescribed" value="1663049859572"/>
+        <entry key="OutputFormat" value="JSCHART"/>
+        <entry key="bucketSyntax" value="true"/>
+        <entry key="masters" value="&quot;ibisamp/car"/>
+        <entry key="runasolap" value="off"/>
+        <entry key="skipamper"/>
+        <entry key="tool" value="infoAssist,chart,IAFull"/>
+    </properties>
+    <extendedProperties _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="_IA_Metadata"/>
+            <value _jt="string" value="-* Created By InfoAssist , ON: 2022/09/13, Version: 9.0.3,10E3CC&#10;-*Do not delete or modify the comments below&#10;*-INTERNAL_COMMENT LINE#0$PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IS0tMS4wLS0+PFJvb3QgcmVsZWFzZT0iOS45LjkuOSIgdmVyc2lvbj0iMS40Ij4NCiAgICA8T2JqZWN0IG9iamVjdElkPSJUYWJsZUNoYXJ0XzEiPg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY29tcG9uZW50Q3VzdG9tVGl0bGUiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJMaW5rZWRTb3J0cyIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyIvPg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iSGlkZGVuRmllbGRzIiB0eXBlPSJNYXAiPg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iU29ydHMiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9IlZlcmJzIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+DQogICAgICAgIDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJmb290ZXJEZWZhdWx0VmlzaWJsZSIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPmZhbHNlPC9Qcm9wZXJ0eT4NCiAgICA8L09iamVjdD4NCiAgICA8T2JqZWN0IG9iamVjdElkPSJHTE9CQUwiPg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iU2F2ZVN0YXJ0VG9vbEluVHlwZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+Q29tcG9zZTwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJHbG9iYWxSZWNvcmRMaW1pdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+MTAwMDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJmZXhMZXZlbEdyYXlPdXRGaWVsZHNNb2RlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJyc19zYW1wbGluZ19lbmFibGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPkxJVkVfREFUQTwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJTYW1wbGVEYXRhIiB0eXBlPSJqYXZhLmxhbmcuQm9vbGVhbiI+ZmFsc2U8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iR2xvYmFsUmVjb3JkTGltaXRTYW1wbGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjA8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iRm9jZXhlY1ByZWZlcmVuY2VzIiB0eXBlPSJNYXAiPg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9wcmV2aWV3X3BhZ2VsaW1pdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+NTwvRW50cnk+DQogICAgICAgICAgICA8RW50cnkga2V5PSJhdXRvRHJpbGxTY3JpcHQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImVuYWJsZUluZm9NaW5pX1NhdmUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRydWU8L0VudHJ5Pg0KICAgICAgICAgICAgPEVudHJ5IGtleT0ibWV0YWRhdGFfdmlld3MiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPk1ldGFEYXRhVHJlZS5WSUVXX0RJTVM8L0VudHJ5Pg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9wcmV2aWV3X3BhZ2VsaW1pdF9sYXlvdXQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjE8L0VudHJ5Pg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9jb21wb3NlX2Zvcm1hdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+QUhUTUw8L0VudHJ5Pg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iSXNHcmF5T3V0RmllbGRzTW9kZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5Pg0KICAgICAgICA8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY2FzY2FkZU5hbWVzIiB0eXBlPSJNYXAiLz4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ik1hc3Rlcl9GaWxlcyIgdHlwZT0iU2V0Ij4NCiAgICAgICAgICAgIDxFbnRyeSB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5pYmlzYW1wL2NhcjwvRW50cnk+DQogICAgICAgIDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJtZXRhZGF0YVZpZXdBcyIgdHlwZT0iTWFwIj4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImliaXNhbXAvY2FyIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5NZXRhRGF0YVRyZWUuVklFV19ESU1TPC9FbnRyeT4NCiAgICAgICAgPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9IlJzX0ZvY2NhY2hlX1NhbXBsaW5nX0RhdGFfTWFzdGVyRmlsZV9NYXAiIHR5cGU9Ik1hcCI+DQogICAgICAgICAgICA8RW50cnkga2V5PSJpYmlzYW1wL2NhciIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+IENSRUFURV9TQU1QTElORyANCiB7JmFtcDtxdW90O3NvdXJjZV9hcHAmYW1wO3F1b3Q7IDogJmFtcDtxdW90O2liaXNhbXAmYW1wO3F1b3Q7LA0KJmFtcDtxdW90O3NvdXJjZV9uYW1lJmFtcDtxdW90OyA6ICZhbXA7cXVvdDtjYXImYW1wO3F1b3Q7DQp9DQpFTkQNCjwvRW50cnk+DQogICAgICAgIDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJHbG9iYWxWYWx1ZXNQYWdpbmciIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjQ8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iRGVzaWduZXJfUGFnZV9Nb2RlIiB0eXBlPSJqYXZhLmxhbmcuQm9vbGVhbiI+ZmFsc2U8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iZW5hYmxlUHJldmlldyIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPnRydWU8L1Byb3BlcnR5Pg0KICAgIDwvT2JqZWN0Pg0KPC9Sb290Pg0K&#10;-*Do not delete or modify the comments above&#10;"/>
+        </entry>
+    </extendedProperties>
+    <nlsValues _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="ja_JP"/>
+            <value _jt="ArrayList" size="1">
+                <item _jt="string" index="0" value="cartest"/>
+            </value>
+        </entry>
+    </nlsValues>
+    <fexParameters _jt="ArrayList" size="0"/>
+</rootObject>
